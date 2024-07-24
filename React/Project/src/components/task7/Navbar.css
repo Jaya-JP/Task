@@ -1,0 +1,10 @@
+
+nav ul{
+    display: flex;
+    justify-content: space-evenly;
+    height: 50px;
+    background-color: #ada9a9;
+    align-items: center;
+    position: absolute;
+    top: 5px;
+}
